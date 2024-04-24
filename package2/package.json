@@ -1,0 +1,25 @@
+{
+  "name": "@pprevankar/sdkpackage2",
+  "version": "1.0.0",
+  "description": "Checking for package 2 access",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pprevankar/sdkaccess.git"
+  },
+  "publishConfig": {
+    "@pprevankar:registry": "https://npm.pkg.github.com"
+  },
+  "keywords": [
+    "sdkpackage2"
+  ],
+  "author": "cret",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pprevankar/sdkaccess/issues"
+  },
+  "homepage": "https://github.com/pprevankar/sdkaccess#readme"
+}
