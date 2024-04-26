@@ -1,6 +1,6 @@
 {
   "name": "@pprevankar/sdkpackage1",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Checking for package 1 access",
   "main": "index.js",
   "scripts": {
